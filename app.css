@@ -1,0 +1,64 @@
+.app{
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1300px;
+  font-family: Courier New, monospace;
+}
+
+
+.search {
+  padding: 10px;
+  font-size: 20px;
+  border-color: rgb(231, 229, 229) ;
+  font-family: Courier New, monospace;
+  border-radius:10px; 
+}
+
+
+
+table {
+  width: 100%;
+  margin: 50px 0px;
+  
+  border-spacing: 1px;
+  color: #444;
+  border-radius: 3px;
+  padding: 25px 30px;
+  border-color: rgb(151, 151, 151);
+  
+}
+
+
+
+th {
+  width: 250px;
+  padding:20px;
+  text-align: center;
+  font-size: 20px;
+  background-color: rgb(214, 214, 214);
+   
+}
+
+td {
+  width: 250px;
+  text-align: center;
+  font-size: 20px;
+  background-color: rgb(250, 249, 249);
+   
+}
+
+button{
+  
+    
+    background-color:#d4d4d4;
+    color: rgb(12, 12, 12);
+    border:none; 
+    border-radius:10px; 
+   
+    padding:15px;
+    margin-bottom: 0px;
+    min-width: 130px;
+  font-family: Courier New, monospace;
+}
